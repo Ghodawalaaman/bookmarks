@@ -6,3 +6,4 @@
 - [jupiterbroadcast](https://www.jupiterbroadcasting.com/) - Podcast about linux and self hosting
 - [2.5admins](https://2.5admins.com/) - Podcast mostly about self hosting
 - [latenightlinux](https://latenightlinux.com/) - Podcast about linux and coding
+- [creepypasta](https://www.creepypasta.com/) - Creepy stories
