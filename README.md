@@ -7,3 +7,4 @@
 - [2.5admins](https://2.5admins.com/) - Podcast mostly about self hosting
 - [latenightlinux](https://latenightlinux.com/) - Podcast about linux and coding
 - [creepypasta](https://www.creepypasta.com/) - Creepy stories
+- [alpaca](https://github.com/antimatter15/alpaca.cpp) - Open Source alternative to chatGPT
