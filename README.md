@@ -8,3 +8,4 @@
 - [latenightlinux](https://latenightlinux.com/) - Podcast about linux and coding
 - [creepypasta](https://www.creepypasta.com/) - Creepy stories
 - [alpaca](https://github.com/antimatter15/alpaca.cpp) - Open Source alternative to chatGPT
+- [mynixos](https://mynixos.com/) - For getting help in nixos
