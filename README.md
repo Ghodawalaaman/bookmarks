@@ -9,3 +9,7 @@
 - [creepypasta](https://www.creepypasta.com/) - Creepy stories
 - [alpaca](https://github.com/antimatter15/alpaca.cpp) - Open Source alternative to chatGPT
 - [mynixos](https://mynixos.com/) - For getting help in nixos
+- [hackaday](https://hackaday.com/) - Blog posts and news about Linux and Tech
+- [linux-magazine](https://www.linux-magazine.com/) - Linux news
+- [techspot](https://www.techspot.com/) - Tech related news
+- [phoronix](https://www.phoronix.com/) - Linux and Tech related news
