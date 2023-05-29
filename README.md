@@ -13,3 +13,4 @@
 - [linux-magazine](https://www.linux-magazine.com/) - Linux news
 - [techspot](https://www.techspot.com/) - Tech related news
 - [phoronix](https://www.phoronix.com/) - Linux and Tech related news
+- [drewdevault](https://drewdevault.com/) - Blogs of a Drew Devault
