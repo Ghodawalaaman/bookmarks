@@ -14,5 +14,4 @@
 - [techspot](https://www.techspot.com/) - Tech related news
 - [phoronix](https://www.phoronix.com/) - Linux and Tech related news
 - [drewdevault](https://drewdevault.com/) - Blogs of a Drew Devault
-- [musicale](https://github.com/Bellisario/musicale) - Youtube music alternative frontend
-- [piped](https://github.com/TeamPiped/Piped) - Youtube alternative frontend without ads
+- [frontend\_alternatives](https://github.com/mendel5/alternative-front-ends) - Open source frontend alternavtive to different services
