@@ -15,3 +15,5 @@
 - [phoronix](https://www.phoronix.com/) - Linux and Tech related news
 - [drewdevault](https://drewdevault.com/) - Blogs of a Drew Devault
 - [frontend\_alternatives](https://github.com/mendel5/alternative-front-ends) - Open source frontend alternavtive to different services
+- [tor-relay-docker](https://github.com/Ilshidur/tor-relay-docker) - Lightweight tor relay Docker image
+- [linuxserver](https://www.linuxserver.io/) - Collection of lots docker images of different services
