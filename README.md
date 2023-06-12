@@ -18,3 +18,6 @@
 - [tor-relay-docker](https://github.com/Ilshidur/tor-relay-docker) - Lightweight tor relay Docker image
 - [linuxserver](https://www.linuxserver.io/) - Collection of lots docker images of different services
 - [freemediaheckyeah](https://fmhy.pages.dev/) - The Largest Collection of Free Stuff On The Internet
+- [guidetojapanese](https://guidetojapanese.org/learn/) - Pretty much the name
+- [jisho](https://jisho.org/) - Japanese-English dictionary
+- [japanesepod101](https://www.japanesepod101.com/) - Greate website to learn Japanese
