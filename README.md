@@ -21,3 +21,4 @@
 - [guidetojapanese](https://guidetojapanese.org/learn/) - Pretty much the name
 - [jisho](https://jisho.org/) - Japanese-English dictionary
 - [japanesepod101](https://www.japanesepod101.com/) - Greate website to learn Japanese
+- [crunchyroll](https://www.crunchyroll.com/comics/manga) - Website for reading manga online
