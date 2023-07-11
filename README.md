@@ -24,3 +24,4 @@
 - [crunchyroll](https://www.crunchyroll.com/comics/manga) - Website for reading manga online
 - [mangaz](https://www.mangaz.com/) - For reading manga
 - [my-mind](https://my-mind.github.io/) - Good website for brainstorming ideas
+- [ersei.net](https://ersei.net/en) - A cool person on the internet
