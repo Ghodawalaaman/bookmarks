@@ -26,3 +26,4 @@
 - [my-mind](https://my-mind.github.io/) - Good website for brainstorming ideas
 - [ersei.net](https://ersei.net/en) - A cool person on the internet
 - [it-tools](https://it-tools.tech/) - Some handy tools for developers
+- [redecentralize](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation
