@@ -30,6 +30,7 @@
 - [redecentralize](https://github.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation
 - [droidthunder](https://www.droidthunder.com/) - Website about android ROMs and Apps
 - [marginalia](https://search.marginalia.nu/) - A cool search engine
+- [decentral\_service](https://inex.dev/mirrors/decentral_services) - A list of decentralized services
 
 ## Gemini Capsules
 - [bbs](gemini://bbs.geminispace.org) - A BBS in Gemini :D
