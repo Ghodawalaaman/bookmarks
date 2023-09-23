@@ -31,6 +31,7 @@
 - [droidthunder](https://www.droidthunder.com/) - Website about android ROMs and Apps
 - [marginalia](https://search.marginalia.nu/) - A cool search engine
 - [decentral\_service](https://inex.dev/mirrors/decentral_services) - A list of decentralized services
+- [hyperreal](https://hyperreal.coffee/) - A website with useful blog post
 
 ## Gemini Capsules
 - [bbs](gemini://bbs.geminispace.org) - A BBS in Gemini :D
