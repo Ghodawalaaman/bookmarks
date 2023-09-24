@@ -34,4 +34,4 @@
 - [hyperreal](https://hyperreal.coffee/) - A website with useful blog post
 
 ## Gemini Capsules
-- [bbs](gemini://bbs.geminispace.org) - A BBS in Gemini :D
+- [gemini://bbs.geminispace.org](gemini://bbs.geminispace.org) - A BBS in Gemini :D
