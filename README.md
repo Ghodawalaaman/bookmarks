@@ -32,6 +32,7 @@
 - [marginalia](https://search.marginalia.nu/) - A cool search engine
 - [decentral\_service](https://inex.dev/mirrors/decentral_services) - A list of decentralized services
 - [hyperreal](https://hyperreal.coffee/) - A website with useful blog post
+- [bsdforall](https://bsdforall.org/) - An IRC server
 
 ## Gemini Capsules
 - [gemini://bbs.geminispace.org](gemini://bbs.geminispace.org) - A BBS in Gemini :D
